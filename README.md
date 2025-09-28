@@ -1,1 +1,1 @@
-# -Manual-Phishing-Simulation
+# Manual-Phishing-Simulation
